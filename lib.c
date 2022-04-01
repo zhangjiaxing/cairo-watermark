@@ -148,7 +148,7 @@ cairo_paint (cairo_t *cr){
 
     cairo_surface_t *surface = cairo_get_target (cr);
     if(cairo_surface_is_xlib_and_show(surface)){
-#if 1
+#if 0
         static int i = 0;
         char filename[128];
         sprintf(filename, "xlib-%04d-%p.png", i++, surface);
