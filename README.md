@@ -11,6 +11,8 @@ make
 ```
 
 ![evince效果图](https://raw.githubusercontent.com/zhangjiaxing/cairo-watermark/master/screenshot/evinc.png?raw=true)
+evince效果图
+
 
 ![gnome-control-center效果图](https://github.com/zhangjiaxing/cairo-watermark/blob/master/screenshot/gnome-control-center.png?raw=true)
-
+gnome-control-center效果图
